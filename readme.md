@@ -18,7 +18,7 @@ http://www.cayugaresearch.com/admat.html
 
 ADMAT can be obtained free of charge for upto one year for academic customers from Cayuga Research, Waterloo, ON, Canada
 
-3. IBM ILOG CPLEX is also reguired to generate production boundary figures in the Supplementary Information
+3. IBM ILOG CPLEX is also required to generate production boundary figures in the Supplementary Information
 
 # Notes 
 1. In case you want to use another LP solver for the FBA problem, make sure it does not conflict with ADMAT
